@@ -12,17 +12,17 @@
 
 <body>
     <ul class="nav nav-pills nav-fill">
-        <li class="nav-item">
+        <li class="nav-item p-2">
             <a class="nav-link active" aria-current="page" href="/">Pagina principale</a>
         </li>
-        <li class="nav-item">
-            <a class="nav-link" href="/contact">Contatti</a>
+        <li class="nav-item p-2">
+            <a class="nav-link active" href="/contact">Contatti</a>
         </li>
-        <li class="nav-item">
-            <a class="nav-link" href="/social">Social</a>
+        <li class="nav-item p-2">
+            <a class="nav-link active" href="/social">Social</a>
         </li>
     </ul>
-    <h1> Hello world </h1>
+    <h1 class="text-center"> Hello world </h1>
 
 </body>
 
